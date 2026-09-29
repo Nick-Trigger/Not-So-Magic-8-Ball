@@ -1,0 +1,19 @@
+# KiCad project local/cache/backup files
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+*-backups/
+
+# Firmware build artifacts
+build/
+.pio/
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
